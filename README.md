@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You can find my resume here: [Rishab_maheshwari_resume.pdf](https://github.com/rishabmahesh/rishabmahesh/files/10762420/Rishab_maheshwari_resume.1.pdf)
+
+
 <!--
 **rishabmahesh/rishabmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
