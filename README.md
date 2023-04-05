@@ -18,6 +18,12 @@ You can find my resume here: [Rishab_maheshwari_resume.pdf](https://github.com/r
   </a>
 </div>
 
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=rishabmahesh&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 <!--
 **rishabmahesh/rishabmahesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
