@@ -5,12 +5,6 @@
   <img src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47lk98320cmtn59s5clagxat12mrguk4mqb4ktp63y&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rishabmahesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=rishabmahesh&style=flat-square&color=blue" alt=""/>
 </div>
