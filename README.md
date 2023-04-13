@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-You can find my resume here: [Rishab_maheshwari_resume.pdf](https://github.com/rishabmahesh/rishabmahesh/files/10762420/Rishab_maheshwari_resume.1.pdf)
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47lk98320cmtn59s5clagxat12mrguk4mqb4ktp63y&rid=giphy.gif&ct=s" width="100"/>
@@ -24,7 +23,7 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 - 🔭: I am currently working on an independent study to detect early signs of Alzheimer's disease. I am also working on a chrome extension to recommend research papers
 
-- 👀: Checkout my startup: https://getaudioshelf.com/. The app is live on App Store and Play Store
+- 👀: Checkout my startup: [AudioShelf](https://getaudioshelf.com/). The app is live on [Play Store](https://play.google.com/store/apps/details?id=com.audioshelfapp) and [App Store](https://apps.apple.com/us/app/audioshelf/id6443459241)
 
 - 👯 I’m always looking for new startup ideas and opportunities
 
@@ -72,6 +71,13 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rishabmahesh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabmahesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📎 Resume :
+
+You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/10762420/Rishab_maheshwari_resume.1.pdf)
+
 
 
 
