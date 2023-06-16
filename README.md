@@ -75,7 +75,7 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/10762420/Rishab_maheshwari_resume.1.pdf)
 
-You can also checkout the GitHub gist code for one of my screens in AudioShelf [here](https://gist.github.com/rishabmahesh/6f39b86e355558955617278c601ead9b)
+You can also checkout the GitHub gist code for one of my screens in AudioShelf [here](https://gist.github.com/rishabmahesh-umass/6f39b86e355558955617278c601ead9b)
 
 I recently transferred all my code from my old account to this one. You can find more info about my contributins [here](https://github.com/rishabmahesh-umass)
 
