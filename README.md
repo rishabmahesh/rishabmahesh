@@ -66,9 +66,6 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabmahesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabmahesh&hide=stars&count_private=true&show_icons=true&theme=dark)
-
-
 ---
 
 ### 📎 Resume and more:
