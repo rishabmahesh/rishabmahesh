@@ -66,11 +66,11 @@ I am a graduate student at UMass Amherst studying CS. I love front-end and mobil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabmahesh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 
 ### 📎 Resume and more:
 
-You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/13283294/Rishab_maheshwari_resume.1.pdf)
+You can find my resume [here](https://github.com/rishabmahesh/rishabmahesh/files/14230875/Rishab_maheshwari_resume.pdf)
 
 You can also checkout the GitHub gist code for one of my screens in AudioShelf [here](https://gist.github.com/rishabmahesh-umass/6f39b86e355558955617278c601ead9b)
 
